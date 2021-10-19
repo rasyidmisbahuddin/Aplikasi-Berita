@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">tugas4_AriRamadhan_6b</string>
+    <string name="news_header1">Politik</string>
+    <string name="news_title1">Demokrat Sebut Pengunduran Diri Roy Suryo Mengagetkan</string>
+    <string name="news_content1">Jakarta, CNN Indonesia -- Kepala Divisi Advokasi dan Bantuan Hukum Partai Demokrat Ferdinand Hutahaean mengatakan bahwa pengunduran diri Roy Suryo dari Partai Demokrat mengagetkan. Menurutnya, pengunduran diri Roy sebetulnya dilakukan di waktu yang tidak tepat karena Demokrat sedangkan melaksanakan persiapan Kongres V yang rencananya berlangsung 14 hingga 16 Maret 2020 mendatang. "Pengunduran ini mengagetkan kami karena partai dan kader semua sedang fokus persiapan kongres. Momen yang tidak tepat untuk mundur sebetulnya, jadi itu yang membuat kami kaget," kata Ferdinand lewat pesan singkat, Rabu (11/3). Dia menerangkan, Roy tidak pernah menyampaikan rencana pengunduran diri dari Partai Demokrat selama ini. Menurutnya, Roy mengundurkan diri secara mendadak. Meski demikian, lanjutnya, pengunduran diri Roy itu tidak akan memengaruhi solidaritas dan kekuatan Partai Demokrat. Saat ditanya tentang sikap Ketua Umum Partai Demokrat Susilo Bambang Yudhoyono (SBY) terkait pengunduran diri Roy ini, Ferdinand berkata bahwa SBY tengah fokus untuk menyukseskan Kongres V Demokrat.
+Namun, ia berpendapat bahwa SBY akan menyetujui pengunduran diri Roy tersebut. "Pak SBY belum bersikap karena beliau lagi fokus untuk mensukseskan kongres Demokrat. Saya pikir Pak SBY akan menyetujui pengunduran diri tersebut karena kami meyakini patah tumbuh hilang berganti adalah sebuah keniscayaan," ungkap Ferdinand.
+</string>
+
+    <string name="news_header2">Kesehatan</string>
+    <string name="news_title2">Psikolog China soal Corona: Beban Emosinya Terlalu Berat (CNN Indonesia)</string>
+    <string name="news_content2">Jakarta, CNN Indonesia — Virus corona tak cuma menelan korban meninggal atau sakit secara fisik. Virus penyebab Covid-19 ini ternyata juga menyebabkan "penyakit mental" di China.
+        Terapis, hotline konseling dan kelompok kesehatan online di China sedang berjuang mengatasi meningkatnya permintaan bantuan emosional ketika virus tersebut juga merusak kehidupan normal. Kekurangan tenaga penyedia kesehatan mental memperburuk masalah di negara tersebut akibat lockdown dan isolasi serta adanya imbauan untuk tak keluar rumah."Setiap hari kami memiliki sekitar 20 penelepon. Beberapa orang telah menyaksikan kerabat mereka binasa tanpa akses ke obat-obatan pada hari-hari awal virus, ketika tidak ada cukup tempat tidur rumah sakit," kata seorang psikolog bermarga Xu, yang bekerja di sebuah rumah sakit di Wuhan, dikutip dari AFP. "Sebagian besar panggilan berasal dari pasien coronavirus yang khawatir tentang hasil yang lambat setelah perawatan medis atau mereka yang cemas akan terinfeksi.".</string>
+
+    <string name="news_header3">Teknologi</string>
+    <string name="news_title3">Apple Watch Klaim Akan Mampu Deteksi Kadar Oksigen di Darah (CNN Indonesia) </string>
+    <string name="news_content3"> Informasi mengenai pembaruan ini disebut telah dikonfirmasi oleh para moderator dan tim manajemen Xiaomi Mi A2 Lite di forum MIUI. Pembaruan ini hadir dengan kode V11.0.2.0.QDLMIXM. Peluncuran Android 10 tersebut dilakukan secara bertahap. Seiring waktu berjalan, pembaruan akan meyambangi seluruh Mi A2 Lite di pasaran.
+Pembaruan ini menghadirkan Dark Mode, navigasi gestur baru, dan berbagai fitur lain yang hadirkan oleh Google untuk Android 10. Perangkat Xiaomi dalam program Android One memiliki beberapa aplikasi bawaan Mi, tapi Mi A2 Lite akan menggantikan aplikasi Radio FM dengan yang serupa dan dikembangkan oleh Qualcomm.</string>
+</resources>
