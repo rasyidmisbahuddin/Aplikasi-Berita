@@ -1,4 +1,7 @@
 # Aplikasi-Berita
+
+![alt text](https://github.com/rasyidmisbahuddin/Aplikasi-Berita/blob/main/berita.jpeg)
+
 Aplikasi ini menampilkan suatu berita yang dibangun di Android Studio
 
 Aplikasi ini menampilkan suatu berita yang dibangun di Android Studio
