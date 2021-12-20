@@ -1,7 +1,7 @@
 # Aplikasi-Berita
 
 
-<img src="https://github.com/rasyidmisbahuddin/Aplikasi-Berita/blob/main/berita.jpeg" alt="berita" width="200"/>
+<img src="https://github.com/rasyidmisbahuddin/Aplikasi-Berita/blob/main/berita.jpeg" alt="berita" width="200" align="center"/>
 
 Aplikasi ini menampilkan suatu berita yang dibangun di Android Studio
 
